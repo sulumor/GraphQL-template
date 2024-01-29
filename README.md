@@ -4,8 +4,9 @@ Architecture afin de commencer tous projet avec GraphQL en ESM.
 
 ## Description
 
-Infrastructure App : GraphQL,  
-Linter : ESLINT sous AIRBnB + utilisation de double quotes,  
+Infrastructure App : Apollo,  
+Linter : ESLINT sous AIRBnB + utilisation de double quotes,
+QueryBuilder : Knex  
 
 ## Commencer
 
@@ -18,8 +19,6 @@ Depuis le répository, NE PAS le cloner mais plutôt sélectionner "Use this tem
   npm install
 ```
 Ne pas oublier de créer un fichier .env à la racine du projet (cf. .env.example)
-
-
 
 ## Authors
 
